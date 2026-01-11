@@ -19,3 +19,7 @@ tested, and documented for educational purposes.
 - Hamming distance
 
 This repository reflects my learning progress in computational biology.
+
+Note:
+This repository reflects introductory learning in bioinformatics and is not intended
+to represent advanced algorithm development.
